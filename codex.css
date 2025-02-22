@@ -1,0 +1,20 @@
+/* Global styles */
+body {
+    background-color: black; /* Black background for the entire page */
+    margin: 0;
+    overflow: hidden; /* Prevent scrollbars */
+  }
+  
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    width: 100vw; /* Full viewport width */
+  }
+  
+  canvas {
+    margin: 10px;
+    border: 2px solid white; /* White boundaries for the boxes */
+  }
