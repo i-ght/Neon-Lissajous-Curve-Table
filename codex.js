@@ -1,3 +1,7 @@
+/* 
+In Funk we trust
+https://www.youtube.com/watch?v=GmDNMx9FRgI
+*/
 // Neon color palette as a queue
 const neonColors = [
     '#39FF14', // Neon green
